@@ -1,2 +1,3 @@
-# DisasterNet_Results_Model
-This repo has the presented model and code (To be published later on)
+# DisasterNet
+This was my Computer Vision Course assigment at SEECS-NUST. This repository contains the dataset with 4 different Disaster cases. 
+It contains two source files, one is the preprocessing file. The dataset was given in a single folder with all the four type of classes in the same folder with names specifying their class. I put the dataset in two four folders with each of its own type. Moreover, the dataset is also split into test and train sets. The second file is a google colab notebook which trains the model and made use of the data. Lastly the assignment report which I submitted is also present in the repo. 
